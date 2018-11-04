@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">WFP</string>
+    <string name="device_already_paired">Already paired this computer</string>
+
+    <string name="device_icon_description">Card Icon</string>
+    <string name="device_last_used">Last used: %s</string>
+
+    <string name="signature_ok">✔️</string>
+    <string name="signature_invalid">❌</string>
+    <string name="signature_not_present">➖</string>
+
+    <string name="challenge_challenge">Challenge</string>
+    <string name="challenge_signature">Signature</string>
+    <string name="challenge_response">Response</string>
+    
+    <plurals name="challenge_seconds_later">
+        <item quantity="one">%d second later</item>
+        <item quantity="other">%d seconds later</item>
+    </plurals>
+</resources>
